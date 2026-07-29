@@ -13,7 +13,7 @@
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-319" value="需求分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;direction=south;align=center;labelBackgroundColor=none;textDirection=ltr;" parent="1" vertex="1">
           <mxGeometry x="160" y="59.38" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OTSzIn5FL8yCRSP8Tnob-323" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eacdc9;fontSize=18;strokeColor=none;labelBackgroundColor=#EACBC8;glass=1;direction=north;" parent="1" vertex="1">
+        <mxCell id="OTSzIn5FL8yCRSP8Tnob-323" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eacdc9;fontSize=18;strokeColor=none;labelBackgroundColor=#EACBC8;glass=1;direction=north;" parent="1" vertex="1">
           <mxGeometry x="100" y="130" width="200" height="220" as="geometry" />
         </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-325" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=18;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
@@ -130,10 +130,10 @@
         </mxCell>
         <mxCell id="XGoyPualwaKXqyh8S6Pk-6" value="" style="endArrow=classic;html=1;fontSize=20;fontColor=#FFFFFF;strokeWidth=6;strokeColor=#999999;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="39.13" y="210" as="sourcePoint" />
-            <mxPoint x="39.13" y="264.25" as="targetPoint" />
+            <mxPoint x="30" y="202.88" as="sourcePoint" />
+            <mxPoint x="30" y="257.13" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="39.13" y="244.25" />
+              <mxPoint x="30" y="237.13" />
             </Array>
           </mxGeometry>
         </mxCell>
