@@ -144,7 +144,16 @@
           <mxGeometry x="100" y="367" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XGoyPualwaKXqyh8S6Pk-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;产出物&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="390" width="99.25" height="30" as="geometry" />
+          <mxGeometry x="-18.5" y="390" width="99.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XGoyPualwaKXqyh8S6Pk-14" value="" style="endArrow=classic;html=1;fontSize=20;fontColor=#FFFFFF;strokeWidth=6;strokeColor=#999999;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="212.88" as="sourcePoint" />
+            <mxPoint x="40" y="267.13" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="247.13" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
