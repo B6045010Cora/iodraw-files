@@ -32,7 +32,7 @@
           <mxGeometry x="138.5" y="170" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-328" value="市场与渠道分析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="138.5" y="210" width="130" height="40" as="geometry" />
+          <mxGeometry x="138.5" y="220" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-329" value="" style="endArrow=none;dashed=1;html=1;fontSize=15;fontColor=#FFFFFF;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -160,6 +160,12 @@
         </mxCell>
         <mxCell id="q54FNuaGGP6ywmocWt4I-10" value="银&lt;br style=&quot;font-size: 20px;&quot;&gt;行&lt;br style=&quot;font-size: 20px;&quot;&gt;应&lt;br style=&quot;font-size: 20px;&quot;&gt;用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;direction=south;align=center;textDirection=vertical-lr;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="690" y="54.75" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q54FNuaGGP6ywmocWt4I-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="270" as="sourcePoint" />
+            <mxPoint x="510" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
