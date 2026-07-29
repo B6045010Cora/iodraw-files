@@ -130,8 +130,8 @@
         <mxCell id="XGoyPualwaKXqyh8S6Pk-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a2b3de;fontSize=18;strokeColor=#2b5083;labelBackgroundColor=#EACBC8;glass=0;direction=north;" vertex="1" parent="1">
           <mxGeometry x="670" y="367" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="XGoyPualwaKXqyh8S6Pk-27" value="&lt;font color=&quot;#000000&quot;&gt;需求分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;direction=south;align=center;labelBackgroundColor=none;textDirection=ltr;" vertex="1" parent="1">
-          <mxGeometry x="108.25" y="-30" width="100" height="50" as="geometry" />
+        <mxCell id="XGoyPualwaKXqyh8S6Pk-27" value="&lt;font color=&quot;#000000&quot;&gt;需求分析PU3 LED颜色AI检测(掌机灯珠缺陷检测)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;direction=south;align=center;labelBackgroundColor=none;textDirection=ltr;" vertex="1" parent="1">
+          <mxGeometry x="108.25" y="-30" width="471.75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
