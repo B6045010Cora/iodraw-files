@@ -34,12 +34,6 @@
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-328" value="市场与渠道分析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="138.5" y="220" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OTSzIn5FL8yCRSP8Tnob-329" value="" style="endArrow=none;dashed=1;html=1;fontSize=15;fontColor=#FFFFFF;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="283.5" y="260" as="sourcePoint" />
-            <mxPoint x="283.5" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-330" value="多维度盈利分析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="297" y="160" width="130" height="40" as="geometry" />
         </mxCell>
