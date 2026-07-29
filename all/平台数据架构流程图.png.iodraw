@@ -57,8 +57,8 @@
         </mxCell>
         <mxCell id="q54FNuaGGP6ywmocWt4I-11" value="" style="endArrow=none;html=1;rounded=1;curved=0;strokeColor=#a53322;strokeWidth=2;shadow=1;flowAnimation=0;opacity=60;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="40" as="sourcePoint" />
-            <mxPoint x="840" y="40" as="targetPoint" />
+            <mxPoint y="40" as="sourcePoint" />
+            <mxPoint x="860" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XGoyPualwaKXqyh8S6Pk-2" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;用户提出需求&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="1">
