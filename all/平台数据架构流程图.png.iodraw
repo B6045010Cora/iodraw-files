@@ -37,9 +37,6 @@
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-339" value="风险控制" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontSize=20;fontColor=#0066CC;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="610" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OTSzIn5FL8yCRSP8Tnob-344" value="反欺诈模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#67AB9F;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="458.5" y="300" width="130" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-345" value="信用卡分析模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#67AB9F;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="458.5" y="367" width="130" height="40" as="geometry" />
         </mxCell>
