@@ -146,14 +146,11 @@
         <mxCell id="q54FNuaGGP6ywmocWt4I-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=-90;fillColor=#6991CA;strokeColor=none;fontColor=#FFFFFF;fontSize=18;direction=south;" vertex="1" parent="1">
           <mxGeometry x="360.75" y="-14.75" width="58.5" height="189" as="geometry" />
         </mxCell>
-        <mxCell id="q54FNuaGGP6ywmocWt4I-3" value="测试" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;direction=south;align=center;textDirection=ltr;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="q54FNuaGGP6ywmocWt4I-3" value="测试上线" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;direction=south;align=center;textDirection=ltr;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="54.75" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q54FNuaGGP6ywmocWt4I-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=-90;fillColor=#6991CA;strokeColor=none;fontColor=#FFFFFF;fontSize=18;direction=south;" vertex="1" parent="1">
           <mxGeometry x="540.5" y="-14.75" width="58.5" height="189" as="geometry" />
-        </mxCell>
-        <mxCell id="q54FNuaGGP6ywmocWt4I-5" value="银&lt;br style=&quot;font-size: 20px;&quot;&gt;行&lt;br style=&quot;font-size: 20px;&quot;&gt;应&lt;br style=&quot;font-size: 20px;&quot;&gt;用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;direction=south;align=center;labelBackgroundColor=none;textDirection=ltr;" vertex="1" parent="1">
-          <mxGeometry x="515.5" y="54.75" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q54FNuaGGP6ywmocWt4I-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=-90;fillColor=#2b5083;strokeColor=none;fontColor=#FFFFFF;fontSize=18;direction=south;" vertex="1" parent="1">
           <mxGeometry x="715" y="-14.75" width="58.5" height="189" as="geometry" />
