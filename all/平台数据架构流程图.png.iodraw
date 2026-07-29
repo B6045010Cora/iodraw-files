@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XGoyPualwaKXqyh8S6Pk-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="126.5" width="770" height="97.87" as="geometry" />
+        </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-315" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=-90;fillColor=#a53322;strokeColor=none;fontColor=#FFFFFF;fontSize=18;direction=south;" parent="1" vertex="1">
           <mxGeometry x="175.44" y="-20.06" width="49.25" height="208.88" as="geometry" />
         </mxCell>
@@ -73,7 +76,7 @@
         <mxCell id="XGoyPualwaKXqyh8S6Pk-8" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;AI解决方案&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-18.5" y="270" width="99.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XGoyPualwaKXqyh8S6Pk-12" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;技术方案文档&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eacdc9;fontSize=18;strokeColor=#ba766b;labelBackgroundColor=#EACBC8;glass=0;direction=north;" vertex="1" parent="1">
+        <mxCell id="XGoyPualwaKXqyh8S6Pk-12" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eacdc9;fontSize=18;strokeColor=#ba766b;labelBackgroundColor=#EACBC8;glass=0;direction=north;" vertex="1" parent="1">
           <mxGeometry x="90" y="367" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XGoyPualwaKXqyh8S6Pk-11" value="&lt;div&gt;&lt;span style=&quot;text-indent: -0.19in; background-color: initial; font-size: 11pt;&quot;&gt;&lt;span style=&quot;mso-special-format:bullet;font-family:Arial&quot;&gt;•&lt;/span&gt;&lt;font face=&quot;微软雅黑&quot; color=&quot;#000000&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; color: rgb(0, 0, 51); background-color: initial;&quot;&gt;环形四分位切割算法&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14.6667px; text-indent: -18.24px; font-family: Arial;&quot;&gt;•&lt;/span&gt;&lt;font style=&quot;background-color: initial; font-size: 14.6667px; text-indent: -18.24px;&quot; face=&quot;微软雅黑&quot; color=&quot;#000000&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#000033&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;像素级通道计分&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14.6667px; text-indent: -18.24px; font-family: Arial;&quot;&gt;•&lt;/span&gt;&lt;font style=&quot;background-color: initial; font-size: 14.6667px; text-indent: -18.24px;&quot; face=&quot;微软雅黑&quot; color=&quot;#000000&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#000033&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;FastAPI 框架&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontSize=20;fontColor=#0066CC;fontStyle=1;verticalAlign=top;gradientColor=none;glass=0;direction=north;align=left;" vertex="1" parent="1">
@@ -129,9 +132,6 @@
         </mxCell>
         <mxCell id="XGoyPualwaKXqyh8S6Pk-27" value="&lt;font color=&quot;#990000&quot; style=&quot;font-size: 23px;&quot;&gt;PU3 LED颜色AI检测(掌机灯珠缺陷检测)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;direction=south;align=center;labelBackgroundColor=none;textDirection=ltr;" vertex="1" parent="1">
           <mxGeometry x="-25.870000000000005" y="-15.240000000000002" width="471.75" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="XGoyPualwaKXqyh8S6Pk-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="126.5" width="770" height="97.87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
