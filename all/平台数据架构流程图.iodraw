@@ -167,6 +167,9 @@
             <mxPoint x="840" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="q54FNuaGGP6ywmocWt4I-12" value="银&lt;br style=&quot;font-size: 20px;&quot;&gt;行&lt;br style=&quot;font-size: 20px;&quot;&gt;应&lt;br style=&quot;font-size: 20px;&quot;&gt;用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;direction=south;align=center;textDirection=vertical-lr;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="64.75" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
